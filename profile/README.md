@@ -27,8 +27,7 @@ You can look at some of them here (most of the sources are available here on our
 
 ## Publications 
 > [!NOTE]
-> Yesss we finally have a [blog](https://guerilla.studio/blog/?from=gh-readme-guerilla) now (with a [RSS](https://guerilla.studio/feed/feed.json)
-/[Atom](https://guerilla.studio/feed/feed.xml) feed)!
+> Yesss we finally have a [blog](https://guerilla.studio/blog/?from=gh-readme-guerilla) now! (with its own [RSS](https://guerilla.studio/feed/feed.xml) feed)
 >
 > Here our last posts:
 
